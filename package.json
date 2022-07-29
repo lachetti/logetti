@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Logger for NodeJS",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lachetti/logetti.git"
