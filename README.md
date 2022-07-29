@@ -1,2 +1,2 @@
 # logetti
-Pretty logger for JavaScript
+Pretty logger for NodeJS

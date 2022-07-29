@@ -1,11 +1,9 @@
 {
   "name": "logetti",
   "version": "1.0.0",
-  "description": "",
+  "description": "Logger for NodeJS",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lachetti/logetti.git"
@@ -15,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/lachetti/logetti/issues"
   },
-  "homepage": "https://github.com/lachetti/logetti#readme"
+  "homepage": "https://github.com/lachetti/logetti#readme",
+  "devDependencies": {
+    "@types/node": "^14.17.3"
+  }
 }
